@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://vedikapatil27.github.io/vedikapatil27/github-header-image.png" alt="logo">
+</div>
 <h1 align="center">Hi 👋, I'm Vedika Patil</h1>
 <h3 align="center">Passionate data science student and AI enthusiast from India</h3>
 <img align ="right" alt = "coding" width=400 src ="https://vedikapatil27.github.io/vedikapatil27/readme_image.jpg">
