@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedika Patil</h1>
 <h3 align="center">Passionate data science student and AI enthusiast from India</h3>
-<img align ="right" alt = "coding" width=400 src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align ="right" alt = "coding" width=400 src ="https://github.com/vedikapatil27/vedikapatil27/code_girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedikapatil27&label=Profile%20views&color=0e75b6&style=flat" alt="vedikapatil27" /> </p>
 
 - 🌱 I’m currently learning **Python,Django,Flask,TensorFlow,PyTorch,NumPy,Pandas**
