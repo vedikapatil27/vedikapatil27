@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python,Django,Flask,TensorFlow,PyTorch,NumPy,Pandas**
 
-- 👯 I’m looking to collaborate on AI-related projects, open-source contributions, and Python tech stack initiatives. Excited to contribute and learn together!"
+- 👯 I’m looking to collaborate on **AI-related projects, open-source contributions, and Python tech stack initiatives. Excited to contribute and learn together!"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vedikapatil27](https://github.com/vedikapatil27)
 
